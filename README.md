@@ -16,7 +16,7 @@
     npm install
     ```
 3. Setup environment variables:
-    - Tạo file `.env` trong thư mục gốc và thêm thông tin kết nối database:
+    - In  `.env` file :
       ```
       DATABASE_URL=postgresql://username:password@localhost:5432/crud_db
       ```
