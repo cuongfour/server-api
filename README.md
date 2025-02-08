@@ -18,7 +18,8 @@
 3. Setup environment variables:
     - In  `.env` file :
       ```
-      DATABASE_URL=postgresql://username:password@localhost:5432/crud_db
+      DATABASE_URL=postgres://postgres:password@localhost:5432/crud_db
+      PORT=3000
       ```
 4. Start PostgreSQL database:
     ```bash
